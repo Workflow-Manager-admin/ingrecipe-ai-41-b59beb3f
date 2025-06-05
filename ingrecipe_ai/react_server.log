@@ -292,3 +292,24 @@ ERROR in ./src/supabaseClient.js 3:0-53
 Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/src'
 
 webpack compiled with 4 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve './RecipesPanel' in '/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/src/components'
+WARNING in [eslint] 
+src/App.js
+  Line 14:11:  'session' is assigned a value but never used  no-unused-vars
+
+src/components/AuthPanel.js
+  Line 19:24:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/components/MainDashboard.js 7:0-42
+Module not found: Error: Can't resolve './RecipesPanel' in '/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/src/components'
+
+ERROR in ./src/components/MainDashboard.js 8:0-54
+Module not found: Error: Can't resolve './AiSuggestionsPanel' in '/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/src/components'
+
+ERROR in ./src/supabaseClient.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/src'
+
+webpack compiled with 3 errors and 1 warning
