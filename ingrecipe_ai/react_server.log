@@ -331,3 +331,33 @@ ERROR in ./src/supabaseClient.js 3:0-53
 Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/src'
 
 webpack compiled with 2 errors and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/src'
+WARNING in [eslint] 
+src/App.js
+  Line 14:11:  'session' is assigned a value but never used  no-unused-vars
+
+src/components/AuthPanel.js
+  Line 19:24:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/supabaseClient.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/src'
+
+webpack compiled with 1 error and 1 warning
+Compiling...
+Failed to compile.
+
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/src'
+WARNING in [eslint] 
+src/App.js
+  Line 14:11:  'session' is assigned a value but never used  no-unused-vars
+
+src/components/AuthPanel.js
+  Line 19:24:  'data' is assigned a value but never used  no-unused-vars
+
+ERROR in ./src/supabaseClient.js 3:0-53
+Module not found: Error: Can't resolve '@supabase/supabase-js' in '/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/src'
+
+webpack compiled with 1 error and 1 warning
