@@ -1,0 +1,213 @@
+
+> react-kavia@0.1.0 start
+> react-scripts start
+
+(node:617) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:617) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.
+Starting the development server...
+
+Compiled successfully!
+
+You can now view react-kavia in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://172.17.0.2:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Failed to compile.
+
+Module not found: SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: Unexpected token } in JSON at position 178
+ERROR in Module not found: SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: Unexpected token } in JSON at position 178
+
+ERROR in Module not found: SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: Unexpected token } in JSON at position 178
+
+ERROR in main
+Module not found: SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: Unexpected token } in JSON at position 178
+
+ERROR in Module not found: SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxError: Unexpected token } in JSON at position 178
+
+ERROR in Error: Child compilation failed:
+  Module not found: SyntaxError: /home/kavia/workspace/code-generation/ingrecipe  -ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): Syntax  Error: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/package.json (directory description file): SyntaxError: /home/kavia/works  pace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (direc  tory description file): SyntaxError: /home/kavia/workspace/code-generation/ing  recipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file):   SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/in  grecipe_ai/package.json (directory description file): SyntaxError: Unexpected   token } in JSON at position 178
+  ModuleNotFoundError: Module not found: SyntaxError: /home/kavia/workspace/code  -generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory desc  ription file): SyntaxError: /home/kavia/workspace/code-generation/ingrecipe-ai  -41-b59beb3f/ingrecipe_ai/package.json (directory description file): SyntaxErr  or: /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_a  i/package.json (directory description file): SyntaxError: /home/kavia/workspac  e/code-generation/ingrecipe-ai-41-b59beb3f/ingrecipe_ai/package.json (director  y description file): SyntaxError: /home/kavia/workspace/code-generation/ingrec  ipe-ai-41-b59beb3f/ingrecipe_ai/package.json (directory description file): Syn  taxError: Unexpected token } in JSON at position 178
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/webpack/lib/Compilation.js:2123:28
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/webpack/lib/NormalModuleFactory.js:923:13
+      at eval (eval at create (/home/kavia/workspace/code-generation/ingrecipe-a  i-41-b59beb3f/ingrecipe_ai/node_modules/tapable/lib/HookCodeFactory.js:33:10),   <anonymous>:10:1)
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/webpack/lib/NormalModuleFactory.js:339:22
+      at eval (eval at create (/home/kavia/workspace/code-generation/ingrecipe-a  i-41-b59beb3f/ingrecipe_ai/node_modules/tapable/lib/HookCodeFactory.js:33:10),   <anonymous>:9:1)
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/webpack/lib/NormalModuleFactory.js:520:22
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/webpack/lib/NormalModuleFactory.js:155:10
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/webpack/lib/NormalModuleFactory.js:745:23
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/neo-async/async.js:2830:7
+      at done (/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/in  grecipe_ai/node_modules/neo-async/async.js:2925:13)
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/webpack/lib/NormalModuleFactory.js:1192:23
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/enhanced-resolve/lib/Resolver.js:620:22
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/enhanced-resolve/lib/Resolver.js:716:21
+      at eval (eval at create (/home/kavia/workspace/code-generation/ingrecipe-a  i-41-b59beb3f/ingrecipe_ai/node_modules/tapable/lib/HookCodeFactory.js:33:10),   <anonymous>:24:1)
+      at done (/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/in  grecipe_ai/node_modules/webpack/lib/cache/ResolverCachePlugin.js:355:13)
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/webpack/lib/cache/ResolverCachePlugin.js:195:22
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/enhanced-resolve/lib/Resolver.js:716:21
+      at eval (eval at create (/home/kavia/workspace/code-generation/ingrecipe-a  i-41-b59beb3f/ingrecipe_ai/node_modules/tapable/lib/HookCodeFactory.js:33:10),   <anonymous>:10:1)
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/enhanced-resolve/lib/Resolver.js:716:21
+      at eval (eval at create (/home/kavia/workspace/code-generation/ingrecipe-a  i-41-b59beb3f/ingrecipe_ai/node_modules/tapable/lib/HookCodeFactory.js:33:10),   <anonymous>:24:1)
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/enhanced-resolve/lib/DescriptionFilePlugin.js:58:24
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/enhanced-resolve/lib/DescriptionFileUtils.js:146:21
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/enhanced-resolve/lib/forEachBail.js:39:13
+      at onJson (/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/  ingrecipe_ai/node_modules/enhanced-resolve/lib/DescriptionFileUtils.js:131:14)      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/enhanced-resolve/lib/DescriptionFileUtils.js:81:15
+      at runCallbacks (/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59  beb3f/ingrecipe_ai/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:  52:4)
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:279:5
+      at Array.<anonymous> (/home/kavia/workspace/code-generation/ingrecipe-ai-4  1-b59beb3f/ingrecipe_ai/node_modules/enhanced-resolve/lib/CachedInputFileSyste  m.js:596:17)
+      at runCallbacks (/home/kavia/workspace/code-generation/ingrecipe-ai-41-b59  beb3f/ingrecipe_ai/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:  45:15)
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/enhanced-resolve/lib/CachedInputFileSystem.js:279:5
+      at /home/kavia/workspace/code-generation/ingrecipe-ai-41-b59beb3f/ingrecip  e_ai/node_modules/graceful-fs/graceful-fs.js:123:16
+      at FSReqCallback.readFileAfterClose [as oncomplete] (node:internal/fs/read  _file_context:68:3)
+  
+  - Compilation.js:2123 
+    [ingrecipe_ai]/[webpack]/lib/Compilation.js:2123:28
+  
+  - NormalModuleFactory.js:923 
+    [ingrecipe_ai]/[webpack]/lib/NormalModuleFactory.js:923:13
+  
+  
+  - NormalModuleFactory.js:339 
+    [ingrecipe_ai]/[webpack]/lib/NormalModuleFactory.js:339:22
+  
+  
+  - NormalModuleFactory.js:520 
+    [ingrecipe_ai]/[webpack]/lib/NormalModuleFactory.js:520:22
+  
+  - NormalModuleFactory.js:155 
+    [ingrecipe_ai]/[webpack]/lib/NormalModuleFactory.js:155:10
+  
+  - NormalModuleFactory.js:745 
+    [ingrecipe_ai]/[webpack]/lib/NormalModuleFactory.js:745:23
+  
+  - async.js:2830 
+    [ingrecipe_ai]/[neo-async]/async.js:2830:7
+  
+  - async.js:2925 done
+    [ingrecipe_ai]/[neo-async]/async.js:2925:13
+  
+  - NormalModuleFactory.js:1192 
+    [ingrecipe_ai]/[webpack]/lib/NormalModuleFactory.js:1192:23
+  
+  - Resolver.js:620 
+    [ingrecipe_ai]/[enhanced-resolve]/lib/Resolver.js:620:22
+  
+  - Resolver.js:716 
+    [ingrecipe_ai]/[enhanced-resolve]/lib/Resolver.js:716:21
+  
+  
+  - ResolverCachePlugin.js:355 done
+    [ingrecipe_ai]/[webpack]/lib/cache/ResolverCachePlugin.js:355:13
+  
+  - ResolverCachePlugin.js:195 
+    [ingrecipe_ai]/[webpack]/lib/cache/ResolverCachePlugin.js:195:22
+  
+  - Resolver.js:716 
+    [ingrecipe_ai]/[enhanced-resolve]/lib/Resolver.js:716:21
+  
+  
+  - Resolver.js:716 
+    [ingrecipe_ai]/[enhanced-resolve]/lib/Resolver.js:716:21
+  
+  
+  - DescriptionFilePlugin.js:58 
+    [ingrecipe_ai]/[enhanced-resolve]/lib/DescriptionFilePlugin.js:58:24
+  
+  - DescriptionFileUtils.js:146 
+    [ingrecipe_ai]/[enhanced-resolve]/lib/DescriptionFileUtils.js:146:21
+  
+  - forEachBail.js:39 
+    [ingrecipe_ai]/[enhanced-resolve]/lib/forEachBail.js:39:13
+  
+  - DescriptionFileUtils.js:131 onJson
+    [ingrecipe_ai]/[enhanced-resolve]/lib/DescriptionFileUtils.js:131:14
+  
+  - DescriptionFileUtils.js:81 
+    [ingrecipe_ai]/[enhanced-resolve]/lib/DescriptionFileUtils.js:81:15
+  
+  - CachedInputFileSystem.js:52 runCallbacks
+    [ingrecipe_ai]/[enhanced-resolve]/lib/CachedInputFileSystem.js:52:4
+  
+  - CachedInputFileSystem.js:279 
+    [ingrecipe_ai]/[enhanced-resolve]/lib/CachedInputFileSystem.js:279:5
+  
+  - CachedInputFileSystem.js:596 Array.<anonymous>
+    [ingrecipe_ai]/[enhanced-resolve]/lib/CachedInputFileSystem.js:596:17
+  
+  - CachedInputFileSystem.js:45 runCallbacks
+    [ingrecipe_ai]/[enhanced-resolve]/lib/CachedInputFileSystem.js:45:15
+  
+  - CachedInputFileSystem.js:279 
+    [ingrecipe_ai]/[enhanced-resolve]/lib/CachedInputFileSystem.js:279:5
+  
+  - graceful-fs.js:123 
+    [ingrecipe_ai]/[graceful-fs]/graceful-fs.js:123:16
+  
+  - read_file_context:68 FSReqCallback.readFileAfterClose [as oncomplete]
+    node:internal/fs/read_file_context:68:3
+  
+  - child-compiler.js:211 
+    [ingrecipe_ai]/[html-webpack-plugin]/lib/child-compiler.js:211:18
+  
+  - Compiler.js:629 finalCallback
+    [ingrecipe_ai]/[webpack]/lib/Compiler.js:629:5
+  
+  - Compiler.js:664 
+    [ingrecipe_ai]/[webpack]/lib/Compiler.js:664:11
+  
+  - Compiler.js:1350 
+    [ingrecipe_ai]/[webpack]/lib/Compiler.js:1350:17
+  
+  
+  - Hook.js:18 Hook.CALL_ASYNC_DELEGATE [as _callAsync]
+    [ingrecipe_ai]/[tapable]/lib/Hook.js:18:14
+  
+  - Compiler.js:1346 
+    [ingrecipe_ai]/[webpack]/lib/Compiler.js:1346:33
+  
+  - Compilation.js:2938 finalCallback
+    [ingrecipe_ai]/[webpack]/lib/Compilation.js:2938:11
+  
+  - Compilation.js:3251 
+    [ingrecipe_ai]/[webpack]/lib/Compilation.js:3251:11
+  
+  
+  - Hook.js:18 Hook.CALL_ASYNC_DELEGATE [as _callAsync]
+    [ingrecipe_ai]/[tapable]/lib/Hook.js:18:14
+  
+  - Compilation.js:3244 
+    [ingrecipe_ai]/[webpack]/lib/Compilation.js:3244:38
+  
+  
+  - Compilation.js:540 
+    [ingrecipe_ai]/[webpack]/lib/Compilation.js:540:10
+  
+  - SourceMapDevToolPlugin.js:607 
+    [ingrecipe_ai]/[webpack]/lib/SourceMapDevToolPlugin.js:607:10
+  
+  - async.js:2830 
+    [ingrecipe_ai]/[neo-async]/async.js:2830:7
+  
+  - async.js:2857 Object.each
+    [ingrecipe_ai]/[neo-async]/async.js:2857:9
+  
+  - SourceMapDevToolPlugin.js:423 
+    [ingrecipe_ai]/[webpack]/lib/SourceMapDevToolPlugin.js:423:17
+  
+  - async.js:2830 
+    [ingrecipe_ai]/[neo-async]/async.js:2830:7
+
+1 ERROR in child compilations (Use 'stats.children: true' resp. '--stats-children' for more details)
+webpack compiled with 6 errors
+Compiling...
+Compiled successfully!
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
